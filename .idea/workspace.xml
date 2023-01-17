@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1824a77-7c34-4e16-9415-f5a89e2d6025" name="Changes" comment="yes">
-      <change afterPath="$PROJECT_DIR$/src/Instabro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Transaksi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pack/Bioskop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pack/film.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pack/jamtayang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pack/kursi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pack/studio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +44,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.jawabanno2">
     <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Driver" />
       <module name="test" />
@@ -45,8 +52,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="jawabanno2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jawabanno2" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.jawabanno2" />
         <item itemvalue="Application.Driver" />
       </list>
     </recent_temporary>
@@ -74,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672220626514</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="yes">
+      <created>1672944509448</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672944509448</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,5 +114,8 @@
     <MESSAGE value="ya" />
     <MESSAGE value="yes" />
     <option name="LAST_COMMIT_MESSAGE" value="yes" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/test$Driver.ic" NAME="Driver Coverage Results" MODIFIED="1673927762653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
